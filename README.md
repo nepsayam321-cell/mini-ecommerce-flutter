@@ -1,7 +1,7 @@
 # MyShop – Mini E-Commerce App (Flutter)
 
-**Student Name:** YOUR NAME HERE
-**Student ID:** YOUR ID HERE
+**Student Name:** Sayam Shakya
+**Student ID:** 2510412198
 **Course:** Mobile Application Development – Flutter
 **Assignment:** Practical Assignment – Mini E-Commerce Application
 
